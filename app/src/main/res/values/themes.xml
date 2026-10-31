@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema OSCURO fijo: la app siempre se ve en modo oscuro. -->
+    <style name="Theme.ControlGastos" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primario</item>
+        <item name="colorOnPrimary">@color/sobre_primario</item>
+        <item name="colorPrimaryContainer">@color/contenedor_primario</item>
+        <item name="colorOnPrimaryContainer">#89F8C7</item>
+        <item name="colorSecondary">#B3CCBE</item>
+        <item name="colorOnSecondary">#1F352A</item>
+        <item name="android:colorBackground">@color/fondo</item>
+        <item name="colorSurface">@color/fondo</item>
+        <item name="colorOnSurface">@color/texto</item>
+        <item name="colorOnSurfaceVariant">@color/texto_secundario</item>
+        <item name="colorOutline">@color/contorno</item>
+        <item name="colorError">@color/gasto</item>
+        <item name="android:statusBarColor">@color/fondo</item>
+        <item name="android:navigationBarColor">@color/fondo</item>
+    </style>
+</resources>

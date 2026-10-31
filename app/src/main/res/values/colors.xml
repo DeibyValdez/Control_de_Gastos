@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta oscura (la misma idea de la guia Clase 15: verde de marca + texto que contrasta) -->
+    <color name="fondo">#191C1A</color>
+    <color name="tarjeta">#262B28</color>
+    <color name="primario">#6CDBAC</color>
+    <color name="sobre_primario">#003826</color>
+    <color name="contenedor_primario">#005138</color>
+    <color name="texto">#E1E3DF</color>
+    <color name="texto_secundario">#BFC9C2</color>
+    <color name="ingreso">#6CDBAC</color>
+    <color name="gasto">#FFB4AB</color>
+    <color name="contorno">#8A938C</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
